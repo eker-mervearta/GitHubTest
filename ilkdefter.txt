@@ -1,1 +1,2 @@
 Git kursuna hoş geldiniz , umarım herkes için çok faydalı olur.
+Gitignore öğreniyoruz.
